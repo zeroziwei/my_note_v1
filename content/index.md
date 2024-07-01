@@ -1,8 +1,12 @@
 ---
 title: Welcome to Quartz
 ---
+欢迎来到灿灿的笔记小屋
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[software]]
 
-[[Home.md]]
+[[OS]]
+
+[[linux]]
+
+

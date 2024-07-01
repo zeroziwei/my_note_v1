@@ -1,0 +1,1 @@
+[图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版](https://web.baimiaoapp.com/)
